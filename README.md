@@ -1,1 +1,1 @@
-# -bootcamp-202205-mad
+# bootcamp-202205-mad
