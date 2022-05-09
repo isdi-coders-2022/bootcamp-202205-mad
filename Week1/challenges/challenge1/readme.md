@@ -5,7 +5,7 @@
 En este ejercicio vas a crear un nuevo proyecto que albergará uno de tus ejercicios del precurso (elige el que quieras, a poder ser alguno que tenga más de un archivo)
 
 - Crea una nueva carpeta para el nuevo proyecto, y abre esta carpeta en el Code.
-- Crea un repositorio en tu cuenta de GitHub. El repo debe llamarse 202201-W1CH1-tunombre-tuapellido (p.e., 202201-W1CH1-mario-gonzalez)
+- Crea un repositorio en tu cuenta de GitHub. El repo debe llamarse 202205-W1CH1-tunombre-tuapellido (p.e., 202205-W1CH1-mario-gonzalez)
 - En la nueva carpeta, inicializa un repositorio Git.
 - Vincula el repositorio local con el repositorio remoto de GitHub.
 - En la carpeta aún vacía, crea los archivos iniciales necesarios (.editorconfig y .gitignore) o un readme.md inicial.
