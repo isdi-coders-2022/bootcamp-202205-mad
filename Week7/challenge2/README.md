@@ -14,7 +14,7 @@ La API REST debe tener los siguientes endpoints:
 
 [POST] /things -> crea una cosa que ya sé (la recibe en el body)
 
-[PUT] /things -> modifica una cosa que ya sé (la recibe en el body)
+[PATCH] /things -> modifica una cosa que ya sé (la recibe en el body)
 
 ## Opción extra:
 
@@ -28,8 +28,8 @@ Para iniciar la API, el programa debe mostrarle al usuario las siguientes pregun
 
 ## Utiliza el patrón de express:
 
-- server
-- app
+- server.ts
+- app.ts
 - /router
 - /controller
 
